@@ -1,0 +1,28 @@
+label{
+    font-size: 20px;
+    margin: 10px;
+}
+input{
+    width: 30vh;
+    padding: 10px;
+    font-size: 18px;
+    margin: 10px;
+    border-radius: 10px;
+    border: 1px solid #b55a8a;
+}
+form{
+    text-align: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    width: 43vh;
+    margin: auto;
+    border: 1px solid #b55a8a;
+    border-radius: 10px;
+}
+.no-border{
+    border: none;
+}
+.none{
+    display: none;
+}
